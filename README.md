@@ -2,5 +2,6 @@
 Time Series Analysis Example
 
 * Exploratory Data Analysis
-* Data Transformations
-* Prediction Model
+* Missing Imputation (Using Machine Learning)
+* Time Series Model (SARIMAX)
+* Severe Pollution Warning Analysis
