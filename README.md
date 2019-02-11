@@ -10,3 +10,5 @@ The following examples a based on the well known dataset of Air Quality Data in 
 * Missing Imputation (Using Machine Learning)
 * Time Series Model (SARIMAX)
 * Severe Pollution Warning Analysis
+
+> All these models where developed using Jupyter Notebooks. Github graciously renders notebooks as html pages, but with reduced functionality. If you run them as notebooks, you’ll find that Table of Contents links actually work and all colors are rendered as originally designed.
